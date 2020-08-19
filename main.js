@@ -9,7 +9,7 @@ function closeNav(){
 
 
 function course_video(){
-    location.href ="file:///C:/Users/ABHINAV/Desktop/E_learning_startup/main_course.html";
+    location.href ="main_course.html";
     
 }
 function course_closeNav(){
@@ -25,5 +25,5 @@ function course_openNav(){
     document.getElementById("course_main").style.width='0px';
 }
 function mainPage(){
-    location.href="file:///C:/Users/ABHINAV/Desktop/E_learning_startup/Main.html";
+    location.href="Main.html";
 }
