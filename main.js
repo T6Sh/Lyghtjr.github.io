@@ -22,7 +22,7 @@ function course_closeNav(){
 function course_openNav(){
     document.getElementById("course_details").style.width='25%';
     document.getElementById("course_video").style.width='75%';
-    document.getElementById("course_main").style.width='0px';
+    document.getElementById("course_main").style.display='none';
 }
 function mainPage(){
     location.href="Main.html";
