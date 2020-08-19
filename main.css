@@ -361,6 +361,7 @@ background-color: bisque;
     float: right;
     display: none;
     margin-top:-990px;
+    margin-right: 10px;
   }
   #about_course{
     color: whitesmoke;
